@@ -1,0 +1,1 @@
+function treenation_track(e){console.log("tracking"),createCORSRequest("GET","https://tree-nation.com/track/web/"+e).send()}function createCORSRequest(e,t){var n=new XMLHttpRequest;return"withCredentials"in n?n.open(e,t,!0):"undefined"!=typeof XDomainRequest?(n=new XDomainRequest).open(e,t):n=new XMLHttpRequest,n}
