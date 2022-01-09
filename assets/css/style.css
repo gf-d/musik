@@ -1,5 +1,5 @@
 html {
-  font: 400 "EuclidFlex";
+  font: 400 "Labil Grotesk";
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   height: 100%
@@ -2200,7 +2200,7 @@ body {
   margin: 0;
   min-height: 100%;
   background-color: #fff;
-  font-family: "EuclidFlex"; 
+  font-family: "Labil Grotesk"; 
   color: #0f0f0f;
   font-size: 16px;
   line-height: 1;
@@ -2211,7 +2211,7 @@ body {
 h1 {
   margin: 0;
   padding-bottom: 4px;
-  font-family: "EuclidFlex"; 
+  font-family: "Labil Grotesk"; 
   font-size: 3.998em;
   line-height: 1.25;
   font-weight: 300;
@@ -2221,7 +2221,7 @@ h1 {
 h2 {
   margin-top: 0;
   margin-bottom: 0;
-  font-family: "EuclidFlex"; 
+  font-family: "Labil Grotesk"; 
   font-size: 2.827em;
   line-height: 1.25;
   font-weight: 300
@@ -2230,7 +2230,7 @@ h2 {
 h3 {
   margin-top: 0;
   margin-bottom: 0;
-  font-family: "EuclidFlex"; 
+  font-family: "Labil Grotesk"; 
   font-size: 1.999em;
   line-height: 1.25;
   font-weight: 300
@@ -2239,7 +2239,7 @@ h3 {
 h4 {
   margin-top: 0;
   margin-bottom: 0;
-  font-family: "EuclidFlex"; 
+  font-family: "Labil Grotesk"; 
   font-size: 1.414em;
   line-height: 1.5;
   font-weight: 300;
@@ -2249,7 +2249,7 @@ h4 {
 h5 {
   margin-top: 0;
   margin-bottom: 0;
-  font-family: "EuclidFlex"; 
+  font-family: "Labil Grotesk"; 
   font-size: 1em;
   line-height: 1.25;
   font-weight: 500;
@@ -2259,7 +2259,7 @@ h5 {
 h6 {
   margin-top: 0;
   margin-bottom: 0;
-  font-family: "EuclidFlex"; 
+  font-family: "Labil Grotesk"; 
   font-size: .9em;
   line-height: 1.25;
   font-weight: 500
@@ -2268,7 +2268,7 @@ h6 {
 p {
   margin-top: 0;
   margin-bottom: 0;
-  font-family: "EuclidFlex"; 
+  font-family: "Labil Grotesk"; 
   font-size: 1em;
   line-height: 1.75;
   font-weight: 300;
@@ -2277,7 +2277,7 @@ p {
 
 a {
   background-color: transparent;
-  font-family: "EuclidFlex"; 
+  font-family: "Labil Grotesk"; 
   font-weight: 300;
   text-decoration: none
 }
@@ -2923,7 +2923,7 @@ blockquote {
 
 .c-vertical-social {
   padding: 12px;
-  font-family: "EuclidFlex"; 
+  font-family: "Labil Grotesk"; 
   color: #11121a;
   font-size: 1em;
   font-weight: 500
@@ -3390,7 +3390,7 @@ blockquote {
 
 .underline-animation {
   display: block;
-  font-family: "EuclidFlex"; 
+  font-family: "Labil Grotesk"; 
   color: #28292b;
   font-size: 1.75rem;
   line-height: 2.5rem;
@@ -12163,17 +12163,3 @@ blockquote {
   font-display: swap;
 }
 
-/* fonts */
-@font-face {
-  font-family: 'EuclidFlex';
-  src: url("https://www.muuto.com/static/fonts/EuclidFlex.eot?#iefix") format("embedded-opentype"), url("https://www.muuto.com/static/fonts/EuclidFlex.otf") format("opentype"), url("https://www.muuto.com/static/fonts/EuclidFlex.woff") format("woff"), url("https://www.muuto.com/static/fonts/EuclidFlex.ttf") format("truetype"), url("https://www.muuto.com/static/fonts/EuclidFlex.svg#EuclidFlex") format("svg");
-  font-style: normal;
-  font-weight: 400;
-}
-
-@font-face {
-  font-family: 'EuclidFlex';
-  src: url("https://www.muuto.com/static/fonts/EuclidFlexMedium.eot?#iefix") format("embedded-opentype"), url("https://www.muuto.com/static/fonts/EuclidFlexMedium.otf") format("opentype"), url("https://www.muuto.com/static/fonts/EuclidFlexMedium.woff") format("woff"), url("https://www.muuto.com/static/fonts/EuclidFlexMedium.ttf") format("truetype"), url("https://www.muuto.com/static/fonts/EuclidFlexMedium.svg#EuclidFlexMedium") format("svg");
-  font-style: normal;
-  font-weight: 500;
-}
